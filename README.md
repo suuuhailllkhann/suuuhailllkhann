@@ -1,38 +1,46 @@
 # Hi, I'm Suhail 👋
 
-**Data Scientist | Applied Machine Learning · Predictive Modeling · Forecasting · MLOps**
+**Data Scientist & Healthcare AI/ML Researcher**  
+*Applied Machine Learning · Predictive Modeling · Clinical AI & Health Informatics · MLOps*
 
-I build data-driven and machine learning systems with a focus on practical, reproducible solutions — from data preparation and feature engineering through model evaluation, deployment, and monitoring.
+I build reproducible machine learning systems and conduct healthcare AI research — spanning health data standards (FHIR, EDI), feature engineering, clinical risk modeling, containerized deployment, and full lifecycle model monitoring.
 
-## Currently Working On
+---
 
-### Pharmacy Demand Forecasting & MLOps Pipeline
-Building an end-to-end forecasting system using pharmacy billing and ordering data, with time-aware validation, experiment tracking, model versioning, containerized inference, prediction logging, and monitoring.
+## 🚀 Currently Working On
 
-### MedTutorDx
-Developing reproducible research around AI-assisted medical reasoning using open medical question-answering datasets and auditable experimental workflows.
+* **Pharmacy Demand Forecasting & MLOps Pipeline**
+  * Building an end-to-end forecasting pipeline on pharmacy billing/ordering data.
+  * Features time-aware validation, MLflow experiment tracking, Dockerized inference, and drift monitoring.
 
-## Tech Stack
+* **MedTutorDx**
+  * Conducting reproducible research on AI-assisted medical reasoning.
+  * Utilizing open clinical Q&A datasets with auditable experimental workflows.
 
-**Programming & Data**  
-Python · SQL · pandas · NumPy · SciPy · PostgreSQL
+---
 
-**Machine Learning**  
-scikit-learn · XGBoost · statsmodels · SHAP · Feature Engineering · Time-Series Forecasting
+## 🛠 Tech Stack
 
-**ML Engineering**  
-MLflow · FastAPI · Docker · GitHub Actions · Model Serving · Monitoring
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Web** | Python, SQL, JavaScript, Node.js, Express.js, REST APIs |
+| **Data & Databases** | pandas, NumPy, SciPy, PostgreSQL, Redis, Excel |
+| **Machine Learning & Stats** | scikit-learn, XGBoost, statsmodels, SHAP, Predictive Modeling, Time-Series |
+| **MLOps & Engineering** | MLflow, FastAPI, Docker, GitHub Actions, Model Versioning & Serving, Monitoring |
+| **Healthcare & Informatics** | HL7 FHIR, HIPAA Compliance, EDI 837P, CMS-1500, ICD-10 |
+| **Cloud & DevOps** | AWS (EC2, S3, RDS, IAM), Nginx, Linux, Git / GitHub |
+| **Visualization & BI** | Power BI, Tableau, Matplotlib |
 
-**Cloud & Systems**  
-AWS · EC2 · S3 · RDS · IAM · Redis · Linux · Git
+---
 
-## Selected Work
+## 📌 Selected Projects & Research
 
-- **Healthcare Readmission Prediction**
-- **Billing vs. Ordering Reconciliation**
-- **Pharmacy Demand Forecasting & MLOps Pipeline** — *In Progress*
-- **MedTutorDx** — *Research in Progress*
+* **Healthcare Readmission Prediction** — Clinical risk scoring model to identify high-risk patient readmissions.
+* **Billing vs. Ordering Reconciliation** — Data matching and reconciliation engine for healthcare revenue cycles.
+* **Pharmacy Demand Forecasting & MLOps** *(In Progress)* — Production-grade time-series forecasting pipeline.
+* **MedTutorDx** *(Research in Progress)* — AI-assisted clinical reasoning framework.
 
+---
 ## Connect
 
 🌐 **Portfolio:** [suhailkhan.dev](https://www.suhailkhan.dev)
